@@ -4,7 +4,7 @@
   "description": "POC: Serverless, Dynamo, GraphQL, Apollo Server, ElasticSearch, APIGateWay, Lambda, Graph(i)QL Playground, TypeScript, NPM, and AWS",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.605.0",
+    "aws-sdk": "^2.814.0",
     "class-transformer": "^0.2.3",
     "g": "^2.0.1",
     "graphql-scalars": "^1.0.6",
